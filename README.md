@@ -52,14 +52,16 @@
 
 ## ✨ Featured Projects
 
-### 🍴 **Tasty Kitchens (Swiggy Clone)**
-![Project](https://github-readme-stats.vercel.app/api/pin/?username=ImArun75&repo=Tasty-Kitchens&theme=tokyonight)
+### 🍴 Tasty Kitchens (Swiggy Clone)
+A food ordering app with authentication, routing, and cart logic  
 🔗 [Live Demo](https://myswiggyproject.ccbp.tech)
 
-### 💼 **Jobby App (Job Portal)**
+### 💼 Jobby App (Job Portal)
+Job search portal with login, filters, and protected routes  
 🔗 [Live Demo](https://jobbyapp7569.ccbp.tech)
 
-### 📺 **Nxt Watch (YouTube Clone)**
+### 📺 Nxt Watch (YouTube Clone)
+Video app with dark mode, authentication, and video details  
 🔗 [Live Demo](https://nxtwatchapp7569.ccbp.tech)
 
 ---
