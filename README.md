@@ -82,7 +82,7 @@ const arun = {
 - Built a predictive admission engine using a custom **Merit Fallback algorithm**, evaluating **5K+ data points** across **15+ national exams**
 - Real-time AI streaming + psychometric analysis transforming admission data into actionable student pathways
 
-[![GitHub](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kavvamarunkumarreddy)
+[![GitHub](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ImArun75)
 
 ---
 
@@ -112,8 +112,8 @@ const arun = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kavvamarunkumarreddy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=7c3aed&text_color=cdd9e5"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavvamarunkumarreddy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=cdd9e5"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ImArun75&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=7c3aed&text_color=cdd9e5"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImArun75&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=cdd9e5"/>
 
 </div>
 
