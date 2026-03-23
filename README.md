@@ -95,17 +95,17 @@
 ### 🧠 SkillRoute — Agentic RAG Counseling Platform
 AI-powered student counseling with multi-model fallback (Llama → Claude → GPT-4o), predictive admission engine evaluating 5K+ data points across 15+ national exams  
 `React.js` · `Node.js` · `MongoDB` · `ChromaDB` · `OpenAI` · `Groq` · `RAG` · `JWT`  
-🔗 [GitHub Repo](https://github.com/kavvamarunkumarreddy)
+🔗 [GitHub Repo]([https://github.com/kavvamarunkumarreddy](https://github.com/ImArun75/AI-FullStack-Application-with-RAG-model))
 
 ### 🗄️ SQL Editor — Interactive SQL Learning Sandbox
 Secure SQL sandbox with always-rollback transactions, Gemini-powered AI mentor, and Monaco-based web IDE with real-time schema visualization  
 `React` · `Node.js` · `PostgreSQL` · `MongoDB` · `Gemini AI` · `Monaco Editor`  
-🔗 [GitHub Repo](https://github.com/kavvamarunkumarreddy)
+🔗 [GitHub Repo]([https://github.com/kavvamarunkumarreddy](https://github.com/ImArun75/sql-compiler-full-stack-application))
 
 ### 🤖 ProPost AI — LinkedIn Automation Pipeline
 Reduced LinkedIn content creation from 40 minutes → under 2 minutes (95% faster) using n8n orchestration, Gemini AI, and OAuth 2.0  
 `n8n` · `Gemini API` · `LinkedIn API` · `Google Sheets API` · `OAuth 2.0` · `Google Cloud`  
-🔗 [GitHub Repo](https://github.com/kavvamarunkumarreddy)
+🔗 [GitHub Repo](https://github.com/propost-ai)
 
 ---
 
