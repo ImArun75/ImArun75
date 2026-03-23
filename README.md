@@ -93,7 +93,7 @@ const arun = {
 - Developed an **AI mentor using Gemini** that guides learners through errors without giving direct answers
 - Monaco-powered **web IDE** with real-time schema visualization and fast query execution
 
-[![GitHub](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kavvamarunkumarreddy)
+[![GitHub](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ImArun75)
 
 ---
 
@@ -104,7 +104,7 @@ const arun = {
 - Full automation pipeline: AI generation → OAuth publishing via n8n orchestration
 - Secure OAuth 2.0 authentication with Google Cloud and LinkedIn APIs
 
-[![GitHub](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kavvamarunkumarreddy)
+[![GitHub](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ImArun75)
 
 ---
 
